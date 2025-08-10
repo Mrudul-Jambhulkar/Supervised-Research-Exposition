@@ -7,7 +7,7 @@ This repository focuses on Alan Turing's 1952 paper, *The Chemical Basis of Morp
 - `Chemical_Basis_of_Morphogenesis.pdf`: A report detailing the theoretical background, model, and experiments based on Turing’s reaction-diffusion system.
 - `Chemical_Basis_of_Morphogenesis.ipynb`: A Jupyter notebook containing Python code to simulate the reaction-diffusion equations and visualize the results.
 
-## 🧠 Key Concepts
+##  Key Concepts
 
 The repository explains the following key concepts:
 
